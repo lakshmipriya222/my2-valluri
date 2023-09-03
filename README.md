@@ -32,5 +32,4 @@ The below table describes four kinds of sports that I'd recommed someone try.
 
 |Throwball |It strengthens arms                            |Two hours |
 
-
 |Football  |Improves Aerobic Capacity                      |Two hours |

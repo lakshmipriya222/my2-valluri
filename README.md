@@ -13,3 +13,9 @@
 1. Trek through tirumala hills
 2. Go for lord venkateswara darshan
 3. Visit kapila thirtham
+
+### Favourite dishes at the vacation spot
+
+1. Sri Vari laddu
+2. Chithrannam
+3. Bisi Belle Bath

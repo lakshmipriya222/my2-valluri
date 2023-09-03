@@ -26,10 +26,10 @@
 
 The below table describes four kinds of sports that I'd recommed someone try.
 
-|Cricket|There are multiple benefits of playing cricket.|Four hours|
+|Cricket   |There are multiple benefits of playing cricket.|Four hours|
 
-|Tennis|Supports Cardiovascular Health.|Two hours|
+|Tennis    |Supports Cardiovascular Health                 |Two hours |
 
-|Throwball|Daily throwball practice helps in both sides of the brain development|Two hours|
+|Throwball |Daily throwball practice helps in both sides of the brain development|Two hours                                      |
 
-|Football|Improves Aerobic Capacity.|Two hours|
+|Football  |Improves Aerobic Capacity                      |Two hours |

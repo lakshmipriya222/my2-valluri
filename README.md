@@ -30,6 +30,6 @@ The below table describes four kinds of sports that I'd recommed someone try.
 
 |Tennis    |Supports Cardiovascular Health                 |Two hours |
 
-|Throwball |Daily throwball practice helps in both sides of the brain development|Two hours                                      |
-
+|Throwball |Daily throwball practice helps in both sides of|Two hours |
+|          |the brain develpment
 |Football  |Improves Aerobic Capacity                      |Two hours |

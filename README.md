@@ -19,3 +19,5 @@
 * Sri Vari laddu
 * Chithrannam
 * Bisi Belle Bath
+
+[MyStats](MyStats.md)

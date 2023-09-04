@@ -27,9 +27,9 @@
 The below table describes four kinds of sports that I'd recommed someone try.
 
 This is a truth table
-| P | Q | P and Q |
+| Sports| Benefits|Time|
 | --- | --- | ---: |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
+| Cricket | There are multiple benefits of playing cricket |Two hours|
+| Tennis | Supports Cardiovascular Health   |Two hours|
+| Badminton | Improves Aerobic Capacity |Two hours  |
+| Throwball| strengthens arms   | Two hours|

@@ -36,10 +36,10 @@ The below table describes four kinds of sports that I'd recommed someone try.
 
 ### Scientists
 
-> * Albert Einstein
+> *Albert Einstein*
 
 > Two things are infinite: the universe and human stupidity; ans I'm not sure about the universe.
 
-> * Georg C. Lichtenberg
+> *Georg C. Lichtenberg*
 
 > It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.

@@ -33,3 +33,11 @@ This is a truth table
 | Tennis | Supports Cardiovascular Health   |Two hours|
 | Badminton | Improves Aerobic Capacity |Two hours  |
 | Throwball| strengthens arms   | Two hours|
+
+### Scientists
+
+> *Albert Einstein
+> Two things are infinite: the universe and human stupidity; ans I'm not sure about the universe.
+
+> *Georg C. Lichtenberg
+> It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.

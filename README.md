@@ -26,7 +26,7 @@
 
 The below table describes four kinds of sports that I'd recommed someone try.
 
-This is a truth table
+
 | Sports| Benefits|Time|
 | --- | --- | ---: |
 | Cricket | There are multiple benefits of playing cricket |Two hours|
@@ -37,7 +37,9 @@ This is a truth table
 ### Scientists
 
 > *Albert Einstein
+
 > Two things are infinite: the universe and human stupidity; ans I'm not sure about the universe.
 
 > *Georg C. Lichtenberg
+
 > It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.

@@ -22,6 +22,8 @@
 
 [MyStats](MyStats.md)
 
+***
+
 ### Sports
 
 The below table describes four kinds of sports that I'd recommed someone try.
@@ -34,6 +36,8 @@ The below table describes four kinds of sports that I'd recommed someone try.
 | Badminton | Improves Aerobic Capacity |Two hours  |
 | Throwball| strengthens arms   | Two hours|
 
+***
+
 ### Scientists
 
 > *Albert Einstein*
@@ -41,3 +45,26 @@ The below table describes four kinds of sports that I'd recommed someone try.
 
 > *Georg C. Lichtenberg*
 > It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.
+
+***
+
+### Code
+
+> Current Location - Google Maps - Link to Directions.
+
+[Stack overflow](https://stackoverflow.com/questions/15042283)
+
+
+```
+
+<form action="http://maps.google.com/maps" method="get" target="_blank">
+   <label for="saddr">Enter your location</label>
+   <input type="text" name="saddr" />
+   <input type="hidden" name="daddr" value="350 5th Ave New York, NY 10018 (Empire State Building)" />
+   <input type="submit" value="Get directions" />
+</form>
+
+```
+
+[HTML](https://css-tricks.com/snippets/html/get-directions-form-google-maps/)
+
